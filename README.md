@@ -1,3 +1,3 @@
 📌CONTROLE DE FLUXO
 
-PEQUENO PROJETO EM JAVA DE CONTROLE DE FLUXO ONDE NELE APRENDI E APRIMOREI O USO DO FOR, METODOS , EXCESSÕES PERSONALIZADAS E TRATADAS USANDO TRY/CATCH.
+Pequeno projeto em java de controle de fluxo onde nele aprimorei o uso do FOR, METODOS e EXCEÇÕES personalizadas e tratadas usando TRY/CATCH.
